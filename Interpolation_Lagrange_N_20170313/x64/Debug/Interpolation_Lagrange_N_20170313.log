@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017/4/10 20:52:11。
+     1>项目“C:\Users\asus1\Documents\visual studio 2015\Projects\Interpolation_Lagrange_N_20170313\Interpolation_Lagrange_N_20170313\Interpolation_Lagrange_N_20170313.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\VS__2013U\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Src\Fitting.cpp Src\Interpolation.cpp Src\NoneLinerEquation.cpp Src\Setting.cpp Src\stdafx.cpp Src\test.cpp
+         test.cpp
+     1>c:\users\asus1\documents\visual studio 2015\projects\interpolation_lagrange_n_20170313\interpolation_lagrange_n_20170313\include\DataStruct.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“Point”的左侧
+     1>Src\test.cpp(22): warning C4305: “参数”: 从“double”到“float”截断
+     1>Src\test.cpp(27): warning C4305: “初始化”: 从“double”到“float”截断
+     1>Src\test.cpp(33): warning C4305: “参数”: 从“double”到“float”截断
+     1>Src\test.cpp(35): warning C4305: “参数”: 从“double”到“float”截断
+     1>Src\test.cpp(37): warning C4305: “参数”: 从“double”到“float”截断
+         stdafx.cpp
+         Setting.cpp
+         NoneLinerEquation.cpp
+     1>Src\NoneLinerEquation.cpp(19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>Src\NoneLinerEquation.cpp(50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Src\NoneLinerEquation.cpp(68): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         Interpolation.cpp
+     1>c:\users\asus1\documents\visual studio 2015\projects\interpolation_lagrange_n_20170313\interpolation_lagrange_n_20170313\include\DataStruct.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“Point”的左侧
+         Fitting.cpp
+     1>c:\users\asus1\documents\visual studio 2015\projects\interpolation_lagrange_n_20170313\interpolation_lagrange_n_20170313\include\DataStruct.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“Point”的左侧
+         正在生成代码...
+       Link:
+         F:\VS__2013U\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus1\Documents\Visual Studio 2015\Projects\Interpolation_Lagrange_N_20170313\x64\Debug\Interpolation_Lagrange_N_20170313.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\asus1\Documents\Visual Studio 2015\Projects\Interpolation_Lagrange_N_20170313\x64\Debug\Interpolation_Lagrange_N_20170313.pdb" /SUBSYSTEM:CONSOLE,"5.02" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus1\Documents\Visual Studio 2015\Projects\Interpolation_Lagrange_N_20170313\x64\Debug\Interpolation_Lagrange_N_20170313.lib" /MACHINE:X64 x64\Debug\Fitting.obj
+         x64\Debug\Interpolation.obj
+         x64\Debug\NoneLinerEquation.obj
+         x64\Debug\Setting.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\test.obj
+         Interpolation_Lagrange_N_20170313.vcxproj -> C:\Users\asus1\Documents\Visual Studio 2015\Projects\Interpolation_Lagrange_N_20170313\x64\Debug\Interpolation_Lagrange_N_20170313.exe
+     1>已完成生成项目“C:\Users\asus1\Documents\visual studio 2015\Projects\Interpolation_Lagrange_N_20170313\Interpolation_Lagrange_N_20170313\Interpolation_Lagrange_N_20170313.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.82

@@ -1,0 +1,6 @@
+﻿  NoneLinerEquation.cpp
+c:\users\asus1\documents\visual studio 2015\projects\interpolation_lagrange_n_20170313\interpolation_lagrange_n_20170313\nonelinerequation.cpp(19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus1\documents\visual studio 2015\projects\interpolation_lagrange_n_20170313\interpolation_lagrange_n_20170313\nonelinerequation.cpp(50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus1\documents\visual studio 2015\projects\interpolation_lagrange_n_20170313\interpolation_lagrange_n_20170313\nonelinerequation.cpp(68): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Interpolation_Lagrange_N_20170313.vcxproj -> C:\Users\asus1\documents\visual studio 2015\Projects\Interpolation_Lagrange_N_20170313\Debug\Interpolation_Lagrange_N_20170313.exe
+  Interpolation_Lagrange_N_20170313.vcxproj -> C:\Users\asus1\documents\visual studio 2015\Projects\Interpolation_Lagrange_N_20170313\Debug\Interpolation_Lagrange_N_20170313.pdb (Full PDB)
